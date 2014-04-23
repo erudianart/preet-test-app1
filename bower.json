@@ -14,5 +14,6 @@
     "app",
     ".tmp",
     ".sass-cache"
-  ]
+  ],
+  "main": "dist/scripts/main.js",
 }
