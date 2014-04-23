@@ -1,6 +1,7 @@
 {
   "name": "preet-test-app1",
   "private": false,
+  "main": "dist/scripts/main.js",
   "dependencies": {
     "bootstrap-sass-official": "~3.1.0",
     "modernizr": "~2.6.2",
@@ -14,6 +15,5 @@
     "app",
     ".tmp",
     ".sass-cache"
-  ],
-  "main": "dist/scripts/main.js",
+  ]
 }
